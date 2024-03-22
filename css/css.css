@@ -1,0 +1,60 @@
+.mainCenter {
+  width: 720px;
+  height: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid black;
+}
+
+.left {
+  width: 200px;
+  height: 1000px;
+  float: left;
+  background-color: #294157;
+}
+
+.right {
+  width: 520px;
+  height: 1000px;
+  float: right;
+  background-color: white;
+}
+
+.image {
+  border-radius: 50%;
+  margin-left: 50px;
+  margin-top: 20px;
+  border: 1px solid white;
+}
+
+.circle {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  border: 2px solid #294157;
+  background-color: white;
+}
+
+.line {
+  width: 160px;
+  border: 1px solid white;
+  float: right;
+}
+
+.lineColor {
+  width: 325px;
+  border: 1px solid #294157;
+  float: left;
+  margin-left: 20px;
+  margin-bottom: 0px;
+}
+
+.tbl {
+  border-collapse: collapse;
+  margin-top: 20px;
+  margin-left: 50px;
+  padding: 10px;
+  font-family: Calibri Light;
+  color: #294157;
+  font-size: 15px;
+}
